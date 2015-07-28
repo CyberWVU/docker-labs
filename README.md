@@ -11,5 +11,5 @@ Labs:
 7. Secure the nginx web server
 8. Remove the backdoor #2
   
-More detailed explanations of what to do/setup is in each folder.  
+More information can be found for each lab in the README file in that lab's folder.
 Solutions for each lab will be posted in the wiki.  
