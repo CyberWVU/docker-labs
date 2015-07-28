@@ -1,0 +1,5 @@
+Lab 2 - Secure ssh.
+
+Objective:
+1. Find and remove ssh keys.
+2. Ensure that ssh settings prevent key usage.
